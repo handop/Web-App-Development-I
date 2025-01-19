@@ -15,9 +15,19 @@ This web application was made for a hypotherical golf fundraiser event for a sch
 - <b>MySQL</b>
 
 
-<h2>Program walk-through:</h2>
+<h2>Sample Pages:</h2>
 
 <p align="center">
+
+![image](https://github.com/user-attachments/assets/dc668ac9-e6dc-449b-a302-6b53ece93f70)
+
+![image](https://github.com/user-attachments/assets/dad53e17-76c3-4dc7-8c36-a721fbbfd711)
+
+![image](https://github.com/user-attachments/assets/a8d1a963-a7eb-4468-8d7e-1e8d8822508e)
+
+![image](https://github.com/user-attachments/assets/ceaea330-4d1d-49af-b837-13fa6f80d039)
+
+
 
 </p>
 
